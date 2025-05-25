@@ -1,4 +1,5 @@
 📝 To-Do App with Local Storage
+
 A simple and responsive To-Do List web application built with HTML, CSS, and JavaScript. It supports task addition, editing, deletion, status filtering (checked/unchecked/all), and persistent storage using the browser's localStorage.
 
 🚀 Features
