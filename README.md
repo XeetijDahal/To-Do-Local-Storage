@@ -28,6 +28,7 @@ No dependencies or installations required — just plain HTML/CSS/JS.
 
 📸 Screenshots
 
+![To-Do App Screenshot1](pics/image1.png)
 
 🔒 Data Persistence
 All tasks are saved in the browser's localStorage, so your list remains even after refreshing or closing the browser.
