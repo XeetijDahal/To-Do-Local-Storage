@@ -27,10 +27,10 @@ Start adding your tasks!
 No dependencies or installations required — just plain HTML/CSS/JS.
 
 📸 Screenshots
+| All | Checked | Unchecked |
+|--------------|-------------|----------------|
+| ![All](pics/image1.png) | ![Checked](pics/image2.png) | ![Unchecked](pics/image3.png)|
 
-![To-Do App Screenshot1](pics/image1.png)
-![To-Do App Screenshot2](pics/image2.png)
-![To-Do App Screenshot3](pics/image3.png)
 
 🔒 Data Persistence
 All tasks are saved in the browser's localStorage, so your list remains even after refreshing or closing the browser.
